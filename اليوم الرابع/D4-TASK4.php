@@ -21,6 +21,7 @@ require 'helpers.php';
 require 'imageform.php';
 
 
+
 if($_SERVER['REQUEST_METHOD'] == "POST"){
 
     $name     = clean($_POST['name']);
@@ -48,6 +49,12 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
         $errors['Password'] = "Field Required";
     }elseif(strlen($password) < 6){
         $errors['Password'] = "Length Must Be > 5 ch";
+    }
+
+    if(empty($gender)){
+        $errors['gender'] = "Field Required";
+    }elseif($gender != strtolower("male") or $gender != strtolower("female")){
+        $errors['gender'] = "male and female only allowed";
     }
 
     if(empty($linkedIn)){
