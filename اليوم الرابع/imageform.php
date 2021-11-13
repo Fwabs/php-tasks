@@ -45,12 +45,14 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
     <title>Document</title>
 </head>
 <body>
-    <div class="form-group">
-        <label for="exampleInputPassword">Image</label>
-        <input type="file"  name="image">
-    </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword">Image</label>
+            <input type="file"  name="image">
+        </div>
 
 
-    <button type="submit" class="btn btn-primary">Upload</button>
+
+        <button type="submit" class="btn btn-primary">Upload</button>
 </body>
 </html>

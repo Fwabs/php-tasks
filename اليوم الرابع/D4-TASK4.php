@@ -18,7 +18,7 @@ Then create a profile page to read data that user inserted.
 
 */
 require 'helpers.php';
-require 'imageform.php';
+
 
 
 
@@ -53,7 +53,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 
     if(empty($gender)){
         $errors['gender'] = "Field Required";
-    }elseif($gender != strtolower("male") or $gender != strtolower("female")){
+    }elseif(($gender != strtolower("male")) or ($gender != strtolower("female"))){
         $errors['gender'] = "male and female only allowed";
     }
 
@@ -73,6 +73,39 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
     }else{
         echo $name;
     }
+}
+
+?>
+
+<?php
+
+if($_SERVER['REQUEST_METHOD'] == "POST"){
+
+
+    if(!empty($_FILES['image']['name'])){
+        $file_tmp  =  $_FILES['image']['tmp_name'];
+        $file_name =  $_FILES['image']['name'];
+
+        $file_ex   = explode('.',$file_name);
+        $updated_ex = strtolower(end($file_ex));
+        $allowed_ex = ["png","jpg","jpeg"];
+
+        if(in_array($updated_ex, $allowed_ex)){
+        $finalName = rand().time().'.'.$updated_ex;
+        $imagePath = './images/'.$finalName;
+        if(move_uploaded_file($file_tmp,$imagePath)){
+            echo 'Image Uploaded';
+        }else{
+            echo 'Error Try Again';
+        }
+        }else{
+            echo '* inValid Extension!';
+    }
+
+}else{
+    echo '* Image Field Required';
+}
+
 }
 
 ?>
@@ -97,7 +130,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 <div class="container">
 <h2>Register</h2>
 
-    <form   action="<?php echo $_SERVER['PHP_SELF'];?>"  method="post">
+    <form   action="<?php echo $_SERVER['PHP_SELF'];?>"  method="post" enctype="multipart/form-data">
 
 
     <div class="form-group">
@@ -137,7 +170,14 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 <button type="submit" class="btn btn-primary">Submit</button>
 
 
-    
+    <div class="form-group">
+        <label for="exampleInputPassword">Image</label>
+        <input type="file"  name="image">
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary">Upload</button>
 </form>
 </div>
 
