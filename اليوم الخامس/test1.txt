@@ -1,0 +1,1700 @@
+products_id : 6 
+products_quantity : 0 
+products_model : fresh 
+products_image : 390 
+products_video_link :  
+products_price : 30.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.150 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : alloy-military-quartz-watch-man 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 6 
+language_id : 1 
+products_name : Alloy Military Quartz watch man 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/mjyBU19111.jpg 
+productupdate : 2019-10-01 12:14:48 
+categories_id : 7 
+categories_name : Mens Accessories 
+images : Array 
+attributes : Array 
+products_id : 14 
+products_quantity : 0 
+products_model : fresh 
+products_image : 359 
+products_video_link :  
+products_price : 39.99 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.450 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : brock-knitted-mesh-casual-oxford-sneakers 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 14 
+language_id : 1 
+products_name : Brock Knitted Mesh Casual Oxford Sneakers 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/cbPj519211.jpg 
+productupdate : 2019-10-01 12:01:22 
+categories_id : 10 
+categories_name : Mens Shoes 
+images : Array 
+attributes : Array 
+products_id : 26 
+products_quantity : 0 
+products_model : fresh 
+products_image : 310 
+products_video_link :  
+products_price : 105.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.525 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : button-up-shoulder-top 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 26 
+language_id : 1 
+products_name : Button up  Shoulder Top 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/pwD0319609.jpg 
+productupdate : 2020-03-04 02:29:19 
+categories_id : 13 
+categories_name : Womens Tops 
+images : Array 
+attributes : Array 
+products_id : 8 
+products_quantity : 0 
+products_model : fresh 
+products_image : 383 
+products_video_link :  
+products_price : 32.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.225 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : carrot-fitt-jeans 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 8 
+language_id : 1 
+products_name : Carrot Fitt Jeans 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/qbKF719611.jpg 
+productupdate : 2019-10-01 12:10:52 
+categories_id : 8 
+categories_name : Mens Jeans 
+images : Array 
+attributes : Array 
+products_id : 5 
+products_quantity : 0 
+products_model : fresh 
+products_image : 395 
+products_video_link :  
+products_price : 45.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.200 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : casual-breathable-outdoor-kids-sneakers 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 5 
+language_id : 1 
+products_name : Casual Breathable Outdoor Kids Sneakers 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/MVmBl19211.jpg 
+productupdate : 2019-10-01 12:15:21 
+categories_id : 6 
+categories_name : Kids Shoes 
+images : Array 
+attributes : Array 
+products_id : 9 
+products_quantity : 0 
+products_model : fresh 
+products_image : 378 
+products_video_link :  
+products_price : 15.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.125 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : casual-cotton-jeans-for-men 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 9 
+language_id : 1 
+products_name : Casual Cotton Jeans for Men 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 161 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 161 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/3MBuE19511.jpg 
+productupdate : 2019-10-01 12:09:48 
+categories_id : 8 
+categories_name : Mens Jeans 
+images : Array 
+attributes : Array 
+products_id : 1 
+products_quantity : -3 
+products_model : fresh 
+products_image : 412 
+products_video_link :  
+products_price : 85.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.500 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 1 
+products_liked : 1 
+low_limit : 0 
+is_feature : 1 
+products_slug : casual-tracksuit-children-boy 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 4 
+admin_type : 0 
+unit : 1 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 1 
+language_id : 1 
+products_name : Casual Tracksuit Children Boy 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/K7HHF19111.jpg 
+productupdate : 2019-10-01 12:17:25 
+categories_id : 4 
+categories_name : Boys Clothing 
+images : Array 
+attributes : Array 
+products_id : 3 
+products_quantity : 0 
+products_model : fresh 
+products_image : 405 
+products_video_link :  
+products_price : 55.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.800 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : cosplay-minnie-mouse-dress 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 3 
+language_id : 1 
+products_name : Cosplay Minnie Mouse Dress 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/64a7R19711.jpg 
+productupdate : 2019-10-01 12:16:24 
+categories_id : 5 
+categories_name : Girls Clothing 
+images : Array 
+attributes : Array 
+products_id : 19 
+products_quantity : 0 
+products_model :  
+products_image : 337 
+products_video_link :  
+products_price : 23.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.100 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : cotton-skirt-for-women 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 19 
+language_id : 1 
+products_name : Cotton Skirt For Women 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/luQnk19210.jpg 
+productupdate : 2019-10-01 11:57:29 
+categories_id : 12 
+categories_name : Womens Bottoms 
+images : Array 
+attributes : Array 
+products_id : 20 
+products_quantity : 0 
+products_model :  
+products_image : 333 
+products_video_link :  
+products_price : 90.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.300 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : cotton-skirt-with-buttons 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 20 
+language_id : 1 
+products_name : Cotton skirt with Buttons 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/iDMNz19310.jpg 
+productupdate : 2019-10-01 11:56:36 
+categories_id : 12 
+categories_name : Womens Bottoms 
+images : Array 
+attributes : Array 
+products_id : 22 
+products_quantity : 0 
+products_model :  
+products_image : 324 
+products_video_link :  
+products_price : 96.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.600 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : crystal-high-heels 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 22 
+language_id : 1 
+products_name : Crystal High Heels 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/8mjRf19210.jpg 
+productupdate : 2019-09-24 10:19:34 
+categories_id : 15 
+categories_name : Womens Shoes 
+images : Array 
+attributes : Array 
+products_id : 11 
+products_quantity : 0 
+products_model : fresh 
+products_image : 372 
+products_video_link :  
+products_price : 21.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.100 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : dotted-casual-shirt-for-men 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 11 
+language_id : 1 
+products_name : Dotted Casual Shirt for men 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/T5YSn19111.jpg 
+productupdate : 2019-10-01 12:05:34 
+categories_id : 9 
+categories_name : Mens Shirts 
+images : Array 
+attributes : Array 
+products_id : 17 
+products_quantity : 0 
+products_model :  
+products_image : 344 
+products_video_link :  
+products_price : 19.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.125 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : fashion-foldable-beach-sun-hat 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 17 
+language_id : 1 
+products_name : Fashion Foldable Beach Sun Hat 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/iTQ7j19211.jpg 
+productupdate : 2019-10-01 11:58:31 
+categories_id : 11 
+categories_name : Womens Accessories 
+images : Array 
+attributes : Array 
+products_id : 2 
+products_quantity : 0 
+products_model : fresh 
+products_image : 408 
+products_video_link :  
+products_price : 60.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.370 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : fashion-plaid-boy-clothing-set 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 4 
+admin_type : 0 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 2 
+language_id : 1 
+products_name : Fashion Plaid Boy Clothing Set 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/U3hD619711.jpg 
+productupdate : 2019-10-01 12:16:55 
+categories_id : 4 
+categories_name : Boys Clothing 
+images : Array 
+attributes : Array 
+products_id : 12 
+products_quantity : 0 
+products_model :  
+products_image : 367 
+products_video_link :  
+products_price : 18.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.100 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : juventus-henley-neck-tshirt 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 12 
+language_id : 1 
+products_name : Juventus Henley Neck Tshirt 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/yPQ6h19111.jpg 
+productupdate : 2019-10-01 12:04:50 
+categories_id : 9 
+categories_name : Mens Shirts 
+images : Array 
+attributes : Array 
+products_id : 15 
+products_quantity : 0 
+products_model :  
+products_image : 355 
+products_video_link :  
+products_price : 48.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.350 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : light-man-lace-up-shoes 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 15 
+language_id : 1 
+products_name : Light Man Lace-up Shoes 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 182 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 182 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/nQlqE19511.jpg 
+productupdate : 2019-10-01 12:00:03 
+categories_id : 10 
+categories_name : Mens Shoes 
+images : Array 
+attributes : Array 
+products_id : 13 
+products_quantity : 0 
+products_model :  
+products_image : 364 
+products_video_link :  
+products_price : 34.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.100 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : men-polo-casual-shirt 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 13 
+language_id : 1 
+products_name : Men Polo Casual Shirt 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/36jAr19511.jpg 
+productupdate : 2019-10-01 12:02:22 
+categories_id : 9 
+categories_name : Mens Shirts 
+images : Array 
+attributes : Array 
+products_id : 7 
+products_quantity : -3 
+products_model : fresh 
+products_image : 385 
+products_video_link :  
+products_price : 25.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.125 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 3 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : men-s-cotton-classic-baseball-cap 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 7 
+language_id : 1 
+products_name : Mens Cotton Classic Baseball Cap 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/OAQ7919311.jpg 
+productupdate : 2020-04-02 11:12:24 
+categories_id : 7 
+categories_name : Mens Accessories 
+images : Array 
+attributes : Array 
+products_id : 16 
+products_quantity : -1 
+products_model :  
+products_image : 350 
+products_video_link :  
+products_price : 52.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.500 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 1 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : mesh-breathable-men-s-sneakers 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 16 
+language_id : 1 
+products_name : Mesh Breathable Mens Sneakers 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/phUDg19511.jpg 
+productupdate : 2019-10-01 11:59:13 
+categories_id : 10 
+categories_name : Mens Shoes 
+images : Array 
+attributes : Array 
+products_id : 21 
+products_quantity : 0 
+products_model :  
+products_image : 330 
+products_video_link :  
+products_price : 77.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.600 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : mid-waist-culottes-pent 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 21 
+language_id : 1 
+products_name : Mid waist culottes  Pent 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 210 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 210 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/7n3HJ19410.jpg 
+productupdate : 2019-10-01 11:55:45 
+categories_id : 12 
+categories_name : Womens Bottoms 
+images : Array 
+attributes : Array 
+products_id : 24 
+products_quantity : 0 
+products_model :  
+products_image : 319 
+products_video_link :  
+products_price : 87.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.550 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : party-dinner-shoes-woman 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 24 
+language_id : 1 
+products_name : Party Dinner Shoes Woman 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 218 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 218 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/tJqpf19810.jpg 
+productupdate : 2019-10-01 11:55:03 
+categories_id : 15 
+categories_name : Womens Shoes 
+images : Array 
+attributes : Array 
+products_id : 4 
+products_quantity : 0 
+products_model :  
+products_image : 400 
+products_video_link :  
+products_price : 90.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 1.00 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : princess-flower-girl-dress 
+products_type : 1 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 4 
+language_id : 1 
+products_name : Princess Flower Girl Dress 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner :  
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner :  
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/AEP0C19311.jpg 
+productupdate : 2019-10-01 12:15:47 
+categories_id : 5 
+categories_name : Girls Clothing 
+images : Array 
+attributes : Array 
+products_id : 10 
+products_quantity : 0 
+products_model : fresh 
+products_image : 375 
+products_video_link :  
+products_price : 28.00 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.125 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 0 
+products_slug : super-skinny-fitt-jeans 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 10 
+language_id : 1 
+products_name : Super Skinny fitt Jeans 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 163 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 163 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/j7Tq119211.jpg 
+productupdate : 2019-10-01 12:07:51 
+categories_id : 8 
+categories_name : Mens Jeans 
+images : Array 
+attributes : Array 
+products_id : 18 
+products_quantity : 0 
+products_model :  
+products_image : 339 
+products_video_link :  
+products_price : 36.99 
+products_date_added : 2020-04-05 01:10:00 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.200 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : women-magnet-buckle-quartz-watch 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 18 
+language_id : 1 
+products_name : Women Magnet Buckle Quartz Watch 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 197 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 197 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/viEGg19911.jpg 
+productupdate : 2019-10-01 11:58:01 
+categories_id : 11 
+categories_name : Womens Accessories 
+images : Array 
+attributes : Array 
+products_id : 25 
+products_quantity : 0 
+products_model :  
+products_image : 313 
+products_video_link :  
+products_price : 73.00 
+products_date_added : 2019-09-18 07:10:39 
+products_last_modified :  
+products_date_available :  
+products_weight : 0.525 
+products_weight_unit :  
+products_status : 1 
+is_current : 1 
+products_tax_class_id : 0 
+manufacturers_id :  
+products_ordered : 0 
+products_liked : 0 
+low_limit : 0 
+is_feature : 1 
+products_slug : women-pumps-ankle-strap 
+products_type : 0 
+products_min_order : 1 
+products_max_stock : 0 
+created_at :  
+updated_at :  
+addedby : 1 
+by : 0 
+admin_type : 1 
+unit : 0 
+offerPrice : 0 
+percentage : 0 
+flash_sale_id :  
+flash_sale_products_price :  
+flash_sale_date_added :  
+flash_sale_last_modified :  
+flash_start_date :  
+flash_expires_date :  
+flash_status :  
+id : 25 
+language_id : 1 
+products_name : Women Pumps Ankle Strap 
+products_description : <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
+products_url :  
+products_viewed : 0 
+products_left_banner : 222 
+products_left_banner_start_date : 0 
+products_left_banner_expire_date : 0 
+products_right_banner : 222 
+products_right_banner_start_date : 0 
+products_right_banner_expire_date : 0 
+specials_id :  
+manufacturer_name :  
+manufacturer_image :  
+manufacturers_slug :  
+date_added :  
+last_modified :  
+manufacturers_image :  
+special_products_id :  
+specials_products_price :  
+specials_date_added :  
+specials_last_modified :  
+expires_date :  
+path : images/media/2020/12/g6Owy19810.jpg 
+productupdate : 2019-10-01 11:54:23 
+categories_id : 15 
+categories_name : Womens Shoes 
+images : Array 
+attributes : Array 
