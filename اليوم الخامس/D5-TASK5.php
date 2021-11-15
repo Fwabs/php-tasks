@@ -24,13 +24,14 @@ foreach ($dataArray['data'] as $k => $v) {
     // echo $v['products_model'];
     foreach ($v as $key => $value) {
         // echo $key."<br>".$value."<br>";
-        $x = "$key : $value \n";
-        // if ($key == 'products_id' or $key == 'products_name' or ) {
-            
-        // }
-        $file = fopen("test1.txt","a");
-        fwrite($file,$x);
-        fclose($file);
+        
+        if ($key == 'products_id' or $key == 'products_name' or $key == 'products_description' or $key == 'products_quantity'  or $key == 'products_model'  or $key == 'products_image'  or $key == 'products_date_added' or $key == 'products_liked') {
+            $x = "$key : $value\n\n";
+            $file = fopen("test1.txt","a");
+            fwrite($file,$x);
+            fclose($file);
+        }
+        
     }
 }
 
