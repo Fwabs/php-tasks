@@ -21,6 +21,11 @@ function validation($input,$warning=null,$input2=null){
                 $status = false;
             }
             break;
+        case 3: 
+            if(!filter_var($input,FILTER_VALIDATE_INT)){
+                $status = false;
+            }
+            break;
     }
     return $status;
 }
